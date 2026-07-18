@@ -1,0 +1,12 @@
+python_version: 3.12.13
+platform: Linux-6.6.122+-x86_64-with-glibc2.35
+processor: x86_64
+sklearn_version: 1.6.1
+xgboost_version: 3.3.0
+shap_version: 0.52.0
+lime_version: unknown
+numpy_version: 2.0.2
+pandas_version: 2.2.2
+random_state: 42
+current_year_used_for_age_features: 2026
+environment_note: Google Colab (standard CPU runtime, RAM ~12-13GB unless upgraded)
